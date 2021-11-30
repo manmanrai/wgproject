@@ -21,6 +21,7 @@
     <main>
       <section class="firstview">
         <div class="wrapper">
+          <img class="logo" src="./images/logo-wh.png" alt="ウィリアム・グラッドストン株式会社">
           <h1 class="serif">ウィリアム・グラッドストン</h1>
           <p>ウィリアム・グラッドストンは世界第３位の経済大国である日本のさらなる成長促進に向けてのインパクト創出に貢献しています。</p>
         </div>
@@ -150,6 +151,7 @@
               </ul>
             </div>
             <div>
+              <img class="logo" src="./images/logo.png" alt="ウィリアム・グラッドストン株式会社">
               <p class="serif name">ウィリアム・グラッドストン株式会社</p>
               <p class="copyright">2021 WilliamGladstone Insights</p>
             </div>
