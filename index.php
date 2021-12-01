@@ -3,6 +3,7 @@
   <head>
     <title>WilliamGladstone株式会社</title>
     <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
     <meta name="keywords" keywords="WilliamGladstone株式会社">
     <meta name="description" content="WilliamGladstone株式会社">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
