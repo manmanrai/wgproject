@@ -132,6 +132,23 @@
           </ul>
         </div>
       </section>
+      <section class="map">
+        <div class="wrapper">
+          <dl>
+            <dd>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.3521508612826!2d139.69317661524707!3d35.692950880191624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd5c3b6022d%3A0x78bfc477e9d0bfbc!2z44CSMTYzLTA1OTAg5p2x5Lqs6YO95paw5a6_5Yy66KW_5paw5a6_77yR5LiB55uu77yS77yW4oiS77ySIOaWsOWuv-mHjuadkeODk-ODqw!5e0!3m2!1sja!2sjp!4v1639026259260!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </dd>
+            <dt>
+              <p class="serif">東京オフィス</p>
+              <p>
+                〒160-0023<br>
+                東京都新宿区西新宿1丁目26-2<br>
+                新宿野村ビル32階
+              </p>
+            </dt>
+          </dl>
+        </div>
+      </section>
       <section class="contact">
         <div class="wrapper">
           <p class="serif">ウィリアム・グラッドストンへのお問い合わせ</p>
